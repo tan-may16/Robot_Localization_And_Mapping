@@ -4,3 +4,6 @@
 [submodule "16833_HW2"]
 	path = 16833_HW2
 	url = https://github.com/tan-may16/16833_HW2.git
+[submodule "16833_HW3"]
+	path = 16833_HW3
+	url = https://github.com/tan-may16/16833_HW3.git
